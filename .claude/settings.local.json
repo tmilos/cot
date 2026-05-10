@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/Users/tmilos/projects/cot/python/.venv/bin/python -c ' *)",
+      "Bash(python3 *)",
+      "Bash(npx tsc *)"
+    ]
+  }
+}
